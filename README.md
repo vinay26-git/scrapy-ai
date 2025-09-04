@@ -38,13 +38,12 @@ It combines **Selenium web scraping**, **semantic search with Sentence Transform
 
 ## 📸 Screenshots  
 
-### Website Example (Quiddity Engineering)  
-![Website Example](assets/website.png)  <img width="1308" height="534" alt="image" src="https://github.com/user-attachments/assets/adc90f25-b06c-4973-a427-da6c5279ba41" />
-
-
 ### Scrapy-AI in Action  
-![Chatbot Example](assets/chatbot.png)  <img width="1344" height="557" alt="image" src="https://github.com/user-attachments/assets/5f6b334c-8436-4e28-adaa-52802f12cf6f" />
+ <img width="1344" height="557" alt="image" src="https://github.com/user-attachments/assets/5f6b334c-8436-4e28-adaa-52802f12cf6f" />
 
+
+ ### Website Example (Quiddity Engineering)  
+  <img width="1308" height="534" alt="image" src="https://github.com/user-attachments/assets/adc90f25-b06c-4973-a427-da6c5279ba41" />
 
 ---
 
@@ -60,7 +59,8 @@ It combines **Selenium web scraping**, **semantic search with Sentence Transform
 ## 🏗️ Technical Architecture  
 
 ### Block Diagram  
-![Technical Architecture](assets/architecture.png)  
+ <img width="484" height="547" alt="image" src="https://github.com/user-attachments/assets/879cffc9-5a3e-431e-89c6-95c0cd108a48" />
+  
 
 ### Data Flow  
 1. **Website Scraping (Selenium + BeautifulSoup)**  
