@@ -43,7 +43,8 @@ It combines **Selenium web scraping**, **semantic search with Sentence Transform
 
 
 ### Scrapy-AI in Action  
-![Chatbot Example](assets/chatbot.png)  
+![Chatbot Example](assets/chatbot.png)  <img width="1344" height="557" alt="image" src="https://github.com/user-attachments/assets/5f6b334c-8436-4e28-adaa-52802f12cf6f" />
+
 
 ---
 
