@@ -100,12 +100,8 @@ It combines **Selenium web scraping**, **semantic search with Sentence Transform
 project/
 ├── website_chatbot.py    # Main Streamlit app
 ├── requirements.txt      # Dependencies
-├── .env                  # API key file (ignored in git)
-├── env_template.txt      # Template for .env
-├── assets/               # Folder for screenshots & diagrams
-│   ├── website.png
-│   ├── chatbot.png
-│   └── architecture.png
+├── SETUP                 # Installation process
+|
 └── README.md             # Project guide
 ```
 
@@ -124,3 +120,7 @@ project/
 ## 📜 License  
 
 MIT License. Free to use and modify.  
+
+## Contact
+For issues or feature requests, open a GitHub issue or contact jejjari.vinay@gmail.com.
+
