@@ -121,6 +121,6 @@ project/
 
 MIT License. Free to use and modify.  
 
-## Contact
+## 📞 Contact
 For issues or feature requests, open a GitHub issue or contact jejjari.vinay@gmail.com.
 
