@@ -8,4 +8,4 @@ sentence-transformers>=3.0.1
 torch>=2.5.0
 python-dotenv==1.0.0
 requests==2.31.0
-huggingface_hub==0.13.4
+huggingface_hub>=0.20.0
