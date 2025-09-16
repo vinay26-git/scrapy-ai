@@ -3,6 +3,8 @@
 Scrapy-AI is a **Streamlit-based chatbot** that lets you interact with and query website content in real time.  
 It combines **Selenium web scraping**, **semantic search with Sentence Transformers**, and **Gemini AI** to provide accurate, reference-backed answers from any website.  
 
+🌐 **Live Demo:** [Scrapy-AI App](https://scrapy-ai-5tsbwye2gyggfqhcflegqn.streamlit.app/)
+
 ---
 
 ## 🚀 How It Works  
