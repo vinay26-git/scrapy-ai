@@ -1,0 +1,7 @@
+flask 
+google-generativeai 
+selenium 
+beautifulsoup4 
+sentence-transformers 
+torch 
+python-dotenv
