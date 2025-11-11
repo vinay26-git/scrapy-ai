@@ -4,11 +4,17 @@ selenium==4.15.2
 beautifulsoup4==4.12.2
 google-generativeai==0.3.2
 
-# --- ML / AI dependencies ---
+# --- AI / ML dependencies ---
 sentence-transformers==2.2.2
 torch==2.9.0
 torchvision==0.24.0
 torchaudio==2.9.0
 
+# --- Hugging Face + Transformers stack (explicitly pinned for Python 3.13) ---
+transformers==4.45.2
+huggingface-hub==0.26.2
+tokenizers==0.20.0
+safetensors==0.4.5
+
 # --- Logging & formatting ---
-rich==13.9.4   # ✅ Compatible with Streamlit <14
+rich==13.9.4
